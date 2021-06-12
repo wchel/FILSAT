@@ -4,7 +4,7 @@ http://103.65.184.145:8443/live/a94fcf08709d77b1a916f434c3044ab9/100.m3u8
 #EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/1f874340-8b95-11eb-bada-abdb752b4f66/1401105/251301978.jpg" group-title="FILSAT", KAPAMILYA CHANNEL HD
 http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Philippines/829dbdfe0b57013.m3u8
 #EXTINF: -1 tvg-logo="https://www.m3u-editor.com/storage/channel-logos/11a7c3c0-b21a-11eb-a0c9-27dfaf04c501/1623505/291154121.png" group-title="FILSAT", PTV
-https://stream-03.sg1.dailymotion.com/sec(vb0ikD3rmZA2RvEN2UsfwD9fNLCKypAFT3VIvXPkeCU)/dm/3/x5cr6b9/d/live-2.m3u8
+https://stream-05.sg1.dailymotion.com/sec(vb0ikD3rmZA2RvEN2UsfwD9fNLCKypAFT3VIvXPkeCU)/dm/3/x5cr6b9/d/live-2.m3u8
 #EXTINF: -1 tvg-logo="https://www.m3u-editor.com/storage/channel-logos/5b1d0550-bed7-11eb-8686-db2fa64a534a/1678084/306280375.png" group-title="FILSAT", TV5
 http://103.65.184.145:8443/live/a94fcf08709d77b1a916f434c3044ab9/102.m3u8
 #EXTINF: -1 tvg-logo="https://www.m3u-editor.com/storage/channel-logos/5b1d0550-bed7-11eb-8686-db2fa64a534a/1678084/306273992.png" group-title="FILSAT", GMA
@@ -47,6 +47,8 @@ https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u
 https://live.cgtn.com/1000/prog_index.m3u8
 #EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/1f874340-8b95-11eb-bada-abdb752b4f66/1401105/248334838.jpg" group-title="FILSAT", NTV NEWS24 (JAPANESE)
 https://www.news24.jp/livestream/index.m3u8
+#EXTINF: -1 tvg-logo="https://www.m3u-editor.com/storage/channel-logos/c105bd20-c461-11eb-80fb-51f6d4ec9267/1699562/308675148.png" group-title="FILSAT", TVONE
+https://stream-01.sg1.dailymotion.com/sec(045Msia06uu92p_oLsoybEZxhEU94x6qzk4-AbrDxtk)/dm/3/x619221/s/live-3.m3u8
 #EXTINF: -1 tvg-logo="https://www.m3u-editor.com/storage/channel-logos/5b1d0550-bed7-11eb-8686-db2fa64a534a/1678084/306927836.png" group-title="FILSAT", RT NEWS
 https://rt-news-gd.secure2.footprint.net/1103_2500Kb.m3u8
 #EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/1f874340-8b95-11eb-bada-abdb752b4f66/1401105/248203630.jpg" group-title="FILSAT", ALJAZEERA HD
@@ -225,3 +227,5 @@ https://movie.mcas.jp/mcas/smil:mx1_prod.smil/master.m3u8
 https://movie.mcas.jp/mcas/smil:mx2_prod.smil/master.m3u8
 #EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/87e42b30-9149-11eb-a190-a7881f1469ac/1431176/254583615.jpg" group-title="FILSAT", WOWOW PRIME
 http://203.162.235.41:16916
+#EXTINF: -1 tvg-logo="https://www.m3u-editor.com/storage/channel-logos/5b1d0550-bed7-11eb-8686-db2fa64a534a/1678084/303935721.png" group-title="FILSAT", NBA LEAGUE PASS
+http://g.givemenbastreams.com/hls/tnt/playlist.m3u8
