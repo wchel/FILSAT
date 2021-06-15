@@ -28,7 +28,7 @@ http://103.65.184.145:8443/live/a94fcf08709d77b1a916f434c3044ab9/115.m3u8
 #EXTINF: -1 tvg-logo="https://www.m3u-editor.com/storage/channel-logos/f3967dd0-982d-11eb-a74d-bf98f0b67ea5/1483516/262616873.png" group-title="FILSAT", TELERADYO
 http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Philippines/bf85cce9b7906bf.m3u8
 #EXTINF: -1 tvg-logo="https://www.m3u-editor.com/storage/channel-logos/5b1d0550-bed7-11eb-8686-db2fa64a534a/1678084/306281002.jpg" group-title="FILSAT", DZRH NEWS TELEVISION
-http://103.65.184.145:8443/live/a94fcf08709d77b1a916f434c3044ab9/108.m3u8
+https://iptv--iptv.repl.co/streamlink?url=https://www.youtube.com/c/DZRHNewsTelevision/live
 #EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/2c6134f0-b21f-11eb-a683-3f59d4f1bd69/1623930/293920085.jpg" group-title="FILSAT", GMA NEWS TV INTERNATIONAL
 http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Philippines/f9973976ebde68c.m3u8
 #EXTINF: -1 tvg-logo="https://www.m3u-editor.com/storage/channel-logos/2c6134f0-b21f-11eb-a683-3f59d4f1bd69/1623930/293920083.png" group-title="FILSAT", SUPER RADYO DZBB (AUDIO)
@@ -153,8 +153,6 @@ http://50.7.161.82:8278/streams/d/Celestial2/playlist.m3u8
 http://210.210.155.35/uq2663/h/h04/index.m3u8
 #EXTINF: -1 tvg-logo="https://www.m3u-editor.com/storage/channel-logos/5b1d0550-bed7-11eb-8686-db2fa64a534a/1678084/306278335.png" group-title="FILSAT", SOLAR SPORTS
 http://103.65.184.145:8443/live/a94fcf08709d77b1a916f434c3044ab9/118.m3u8
-#EXTINF: -1 tvg-logo="https://www.m3u-editor.com/storage/channel-logos/11a7c3c0-b21a-11eb-a0c9-27dfaf04c501/1623505/291170684.png" group-title="FILSAT", ONE SPORTS
-http://103.11.112.28:1935/live2/smil:onesports.smil/playlist.m3u8
 #EXTINF: -1 tvg-logo="https://www.m3u-editor.com/storage/channel-logos/5b1d0550-bed7-11eb-8686-db2fa64a534a/1678084/306280289.png" group-title="FILSAT", ONE SPORTS+
 http://103.65.184.145:8443/live/a94fcf08709d77b1a916f434c3044ab9/114.m3u8
 #EXTINF: -1 tvg-logo="https://www.m3u-editor.com/storage/channel-logos/5b1d0550-bed7-11eb-8686-db2fa64a534a/1678084/306281017.png" group-title="FILSAT", PBA RUSH
