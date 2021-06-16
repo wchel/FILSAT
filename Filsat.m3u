@@ -155,8 +155,6 @@ http://50.7.161.82:8278/streams/d/Boo/playlist.m3u8
 http://210.210.155.35/qwr9ew/s/s33/index.m3u8
 #EXTINF: -1 tvg-logo="https://1.bp.blogspot.com/-JitJUuWTMxg/VH--1LtXqGI/AAAAAAAAAo0/FL_bgsBFjeU/s1600/CELESTIAL%2BCLASSIC%2BMOVIES%2Blogo.png" group-title="FILSAT", CELESTIAL CLASSIC MOVIES
 http://50.7.161.82:8278/streams/d/Celestial2/playlist.m3u8
-#EXTINF: -1 tvg-logo="https://i.imgur.com/gHCOcuF.png" group-title="FILSAT", CinemaWorld
-http://210.210.155.35/uq2663/h/h04/index.m3u8
 #EXTINF: -1 tvg-logo="https://www.m3u-editor.com/storage/channel-logos/5b1d0550-bed7-11eb-8686-db2fa64a534a/1678084/306278335.png" group-title="FILSAT", SOLAR SPORTS
 http://103.65.184.145:8443/live/a94fcf08709d77b1a916f434c3044ab9/118.m3u8
 #EXTINF: -1 tvg-logo="https://www.m3u-editor.com/storage/channel-logos/5b1d0550-bed7-11eb-8686-db2fa64a534a/1678084/306280289.png" group-title="FILSAT", ONE SPORTS+
