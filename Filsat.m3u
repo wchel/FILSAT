@@ -109,7 +109,7 @@ http://50.7.161.82:8278/streams/d/Natgeowild/playlist.m3u8
 https://outdoorchannel-samsungau.amagi.tv/playlist.m3u8
 #EXTINF: -1 tvg-logo="https://download.logo.wine/logo/Crime_%2B_Investigation_(Australian_TV_channel)/Crime_%2B_Investigation_(Australian_TV_channel)-Logo.wine.png" group-title="FILSAT", CRIME INVESTIGATION
 http://203.154.243.31:15001
-#EXTINF: -1 tvg-logo="https://www.m3u-editor.com/storage/channel-logos/b3fcf7d0-ce83-11eb-b11a-eb15b3ca1ddc/1763241/318105023.png" group-title="FILSAT", REELZ
+#EXTINF: -1 tvg-logo="https://www.m3u-editor.com/storage/channel-logos/b3fcf7d0-ce83-11eb-b11a-eb15b3ca1ddc/1763241/318105023.jpg" group-title="FILSAT", DISTRO TV
 http://a.jsrdn.com/broadcast/d37066a396/+0000/mid/c.m3u8
 #EXTINF: -1 tvg-logo="https://www.m3u-editor.com/storage/channel-logos/5b1d0550-bed7-11eb-8686-db2fa64a534a/1678084/306935662.png" group-title="FILSAT", RT DOCUMENTARY
 https://rt-doc-gd.secure2.footprint.net/1101_2500Kb.m3u8
