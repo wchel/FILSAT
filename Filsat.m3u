@@ -95,6 +95,8 @@ http://103.65.184.145:8443/live/a94fcf08709d77b1a916f434c3044ab9/129.m3u8
 http://103.65.184.145:8443/live/a94fcf08709d77b1a916f434c3044ab9/132.m3u8
 #EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/1f874340-8b95-11eb-bada-abdb752b4f66/1401105/248055046.jpg" group-title="FILSAT", WARNER TV HD
 http://203.154.243.89:11205/
+#EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/1f874340-8b95-11eb-bada-abdb752b4f66/1401105/248055046.jpg" group-title="FILSAT", WARNER TV HD (BACKUP)
+http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/FOXMOVIES-HD-1080p/playlist.m3u8
 #EXTINF: -1 tvg-logo="https://www.m3u-editor.com/storage/channel-logos/b3fcf7d0-ce83-11eb-b11a-eb15b3ca1ddc/1763241/318048666.png" group-title="FILSAT", TNT
 http://31.220.41.88:8081/live/us-tnt.stream/chunks.m3u8
 #EXTINF: -1 tvg-logo="https://www.m3u-editor.com/storage/channel-logos/c105bd20-c461-11eb-80fb-51f6d4ec9267/1699562/309021024.png" group-title="FILSAT", DISCOVERY CHANNEL
@@ -133,8 +135,6 @@ https://htv-drm-live-cdn.fptplay.net/CDN-FPT02/PARAMOUNT-HD-720p/playlist.m3u8
 http://103.65.184.145:8443/live/a94fcf08709d77b1a916f434c3044ab9/111.m3u8
 #EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/87e42b30-9149-11eb-a190-a7881f1469ac/1431176/254191045.jpg" group-title="FILSAT", CINEMAX HD
 https://liveorigin01.hbogoasia.com:8443/origin/live/main/MAX/index.m3u8
-#EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/1f874340-8b95-11eb-bada-abdb752b4f66/1401105/251555070.jpg" group-title="FILSAT", FOX MOVIES HD
-http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/FOXMOVIES-HD-1080p/playlist.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:81.0) Gecko/20100101 Firefox/81.0
 #EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/1f874340-8b95-11eb-bada-abdb752b4f66/1401105/248005971.jpg" group-title="FILSAT", HBO SD
 http://103.65.184.145:8443/live/a94fcf08709d77b1a916f434c3044ab9/113.m3u8
 #EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/1f874340-8b95-11eb-bada-abdb752b4f66/1401105/248005971.jpg" group-title="FILSAT", HBO HD
