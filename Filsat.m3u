@@ -133,10 +133,6 @@ http://210.210.155.35/qwr9ew/s/s33/index.m3u8
 http://50.7.161.82:8278/streams/d/Celestial2/playlist.m3u8
 #EXTINF: -1 tvg-logo="https://www.m3u-editor.com/storage/channel-logos/749cb0c0-cfe1-11eb-be99-b95f396ace3c/1769200/319389173.png" group-title="FILSAT", ONE SPORTS
 http://103.11.112.28:1935/live2/smil:onesports.smil/playlist.m3u8
-#EXTINF: -1 tvg-logo="https://www.m3u-editor.com/storage/channel-logos/b3fcf7d0-ce83-11eb-b11a-eb15b3ca1ddc/1763241/318023664.png" group-title="FILSAT", ESPN
-https://gma2.blab.email/fs2.m3u8
-#EXTINF: -1 tvg-logo="https://www.m3u-editor.com/storage/channel-logos/b3fcf7d0-ce83-11eb-b11a-eb15b3ca1ddc/1763241/318023665.png" group-title="FILSAT", ESPN 2
-https://gma2.blab.email/espn2.m3u8
 #EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/2b3091b0-c5ff-11eb-93a0-378afa978d98/1712935/310085734.jpg" group-title="FILSAT", FOX SPORTS HD
 https://livecdn.fptplay.net/qnetlive/foxsports_2000.stream/playlist.m3u8
 #EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/2b3091b0-c5ff-11eb-93a0-378afa978d98/1712935/310085735.jpg" group-title="FILSAT", FOX SPORTS 2 HD
