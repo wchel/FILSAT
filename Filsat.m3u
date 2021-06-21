@@ -53,8 +53,6 @@ http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/CHANNELV-HD-1080p/playlist.m3u8
 http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/AXN-HD-1080p/playlist.m3u8
 #EXTINF: -1 tvg-logo="https://www.m3u-editor.com/storage/channel-logos/c105bd20-c461-11eb-80fb-51f6d4ec9267/1699562/309021023.png" group-title="FILSAT", KIX
 http://210.210.155.35/session/e269237c-7e3d-11e8-a249-b82a72d63267/uq2663/h/h07/01.m3u8
-#EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/87e42b30-9149-11eb-a190-a7881f1469ac/1431176/256122263.jpg" group-title="FILSAT", FOX SD
-http://103.65.184.145:8443/live/a94fcf08709d77b1a916f434c3044ab9/112.m3u8
 #EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/87e42b30-9149-11eb-a190-a7881f1469ac/1431176/256122263.jpg" group-title="FILSAT", FOX HD
 http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/FOX-HD-1080p/playlist.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:81.0) Gecko/20100101 Firefox/81.0
 #EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/1f874340-8b95-11eb-bada-abdb752b4f66/1401105/251522706.jpg" group-title="FILSAT", BLUE ANT ENTERTAINMENT
