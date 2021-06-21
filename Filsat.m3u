@@ -63,8 +63,6 @@ http://210.210.155.35/session/2892c0cc-30c4-11e9-af8c-c81f66f89318/dr9445/h/h16/
 http://210.210.155.35/session/52acdc30-30c4-11e9-b47d-c81f66f89318/dr9445/h/h15/01.m3u8
 #EXTINF: -1 tvg-logo="https://www.m3u-editor.com/storage/channel-logos/b3fcf7d0-ce83-11eb-b11a-eb15b3ca1ddc/1763241/318022797.jpg" group-title="FILSAT", GEM
 http://210.210.155.35/uq2663/h/h19/index.m3u8
-#EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/1f874340-8b95-11eb-bada-abdb752b4f66/1401105/248055046.jpg" group-title="FILSAT", WARNER TV SD
-http://103.65.184.145:8443/live/a94fcf08709d77b1a916f434c3044ab9/132.m3u8
 #EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/1f874340-8b95-11eb-bada-abdb752b4f66/1401105/248055046.jpg" group-title="FILSAT", WARNER TV HD
 http://203.154.243.89:11205/
 #EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/1f874340-8b95-11eb-bada-abdb752b4f66/1401105/248055046.jpg" group-title="FILSAT", WARNER TV HD (BACKUP)
