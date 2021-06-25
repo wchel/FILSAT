@@ -1,12 +1,6 @@
 #EXTM3U 
-#EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/1f874340-8b95-11eb-bada-abdb752b4f66/1401105/251301978.jpg" group-title="FILSAT", KAPAMILYA CHANNEL HD
-http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Philippines/829dbdfe0b57013.m3u8
 #EXTINF: -1 tvg-logo="https://www.m3u-editor.com/storage/channel-logos/11a7c3c0-b21a-11eb-a0c9-27dfaf04c501/1623505/291154121.png" group-title="FILSAT", PTV
 https://stream-04.sg1.dailymotion.com/sec(vb0ikD3rmZA2RvEN2UsfwBhkfptlinivn80_cJqQkmU)/dm/3/x5cr6b9/d/live-3.m3u8
-#EXTINF: -1 tvg-logo="https://www.m3u-editor.com/storage/channel-logos/749cb0c0-cfe1-11eb-be99-b95f396ace3c/1769200/319456954.png" group-title="FILSAT", GMA PINOY TV
-http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Philippines/cd1b220644affbb.m3u8
-#EXTINF: -1 tvg-logo="https://www.m3u-editor.com/storage/channel-logos/749cb0c0-cfe1-11eb-be99-b95f396ace3c/1769200/319456818.png" group-title="FILSAT", GMA LIFE TV
-http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Philippines/fc256993b031626.m3u8
 #EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/1f874340-8b95-11eb-bada-abdb752b4f66/1401105/247977894.jpg" group-title="FILSAT", CNN PH HD
 https://streaming.cnnphilippines.com/live/myStream/chunklist.m3u8
 #EXTINF: -1 tvg-logo="https://www.m3u-editor.com/storage/channel-logos/87e42b30-9149-11eb-a190-a7881f1469ac/1431176/254132874.jpg" group-title="FILSAT", DEPED TV
@@ -17,12 +11,8 @@ https://d3cbe0gidjd4k2.cloudfront.net/channel_5/smil:channel_5.smil/chunklist_w2
 https://abscbn-ono.akamaized.net/midroll/hdnea=st=1624600629~exp=1624600839~acl=/*~id=31927d2b-a9be-4cd2-a684-052b6ab80e89~data=42297~hmac=12c704f7d17ba8adcc02bbae1a1f26d9a38f32c7b91840cf0917edd54cc4c142&ip=136.158.32.136&deviceid=136caebd-92f1-7dfd-1614-88cdf2e8970a&dnt=1&usprivacy=1NYN&b=100-1300/amagi_hls_data_abscbnAAA-abscbn-teleradyo-oando/CDN/640x480_1126400/index.m3u8
 #EXTINF: -1 tvg-logo="https://www.m3u-editor.com/storage/channel-logos/5b1d0550-bed7-11eb-8686-db2fa64a534a/1678084/306281002.jpg" group-title="FILSAT", DZRH NEWS TELEVISION
 https://iptv--iptv.repl.co/streamlink?url=https://www.youtube.com/c/DZRHNewsTelevision/live
-#EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/2c6134f0-b21f-11eb-a683-3f59d4f1bd69/1623930/293920085.jpg" group-title="FILSAT", GMA NEWS TV INTERNATIONAL
-http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Philippines/f9973976ebde68c.m3u8
-#EXTINF: -1 tvg-logo="https://www.m3u-editor.com/storage/channel-logos/2c6134f0-b21f-11eb-a683-3f59d4f1bd69/1623930/293920083.png" group-title="FILSAT", SUPER RADYO DZBB (AUDIO)
-http://stream.gmanews.tv/ioslive/livestream/chunklist.m3u8?wowzasessionid=693701106
-#EXTINF: -1 tvg-logo="https://www.m3u-editor.com/storage/channel-logos/5b1d0550-bed7-11eb-8686-db2fa64a534a/1678084/306360947.png" group-title="FILSAT", ANC GLOBAL
-http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Philippines/ac0896de0109679.m3u8
+#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/9/99/UNTV-Logo-2016.svg/1024px-UNTV-Logo-2016.svg.png" group-title="FILSAT", UNTV
+https://cdn.untvweb.com/live-stream/chunklist_b732000.m3u8
 #EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/1f874340-8b95-11eb-bada-abdb752b4f66/1401105/248255377.jpg" group-title="FILSAT", CNN HD
 https://cnn-cnninternational-1-gb.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/1f874340-8b95-11eb-bada-abdb752b4f66/1401105/248211137.jpg" group-title="FILSAT", BBC WORLD NEWS
